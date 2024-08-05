@@ -8,7 +8,7 @@ This is a stylish static calculator built using only HTML and CSS. It showcases 
 
 ## Pure HTML & CSS: No JavaScript included, making it a great template for learning or expanding with your own JavaScript functionality.
 
-git link https://github.com/yourusername/stylish-static-calculator.git
+git link https://sricharan-22.github.io/Static_Calculator/
 
 Open index.html in your browser to view the calculator.
 
